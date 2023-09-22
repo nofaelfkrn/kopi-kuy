@@ -1,0 +1,158 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "58.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "450 Gram",
+            "harga": "65.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "400 Gram",
+            "harga": "60.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "500 Gram",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "450 Gram",
+            "harga": "54.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "Non Kopi": [
+        {
+            "foto": "https://lifestyleofafoodie.com/wp-content/uploads/2021/02/Starbucks-Vanilla-Bean-Frappuccino-with-No-Ice-Cream-3-of-18.jpg",
+            "nama": "Vanila Cream Frappuccino",
+            "size": "400 Gram",
+            "harga": "55.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.butteredsideupblog.com/wp-content/uploads/2023/03/Iced-Matcha-Latte-Recipe-4-scaled-540x720.jpg",
+            "nama": "Green Tea Latte",
+            "size": "400 Gram",
+            "harga": "60.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://cdn.idntimes.com/content-images/community/2022/11/fromandroid-5c5c2e0743a17da042fc78a2705ca7bd_600x400.jpg",
+            "nama": "Red Velvet Latte",
+            "size": "400 Gram",
+            "harga": "60.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://img.freepik.com/premium-photo/milk-purple-sweet-potato-frappe-with-whipped-cream_282791-564.jpg?w=2000",
+            "nama": "Taro Latte",
+            "size": "400 Gram",
+            "harga": "60.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqvLEY-DafX_9tU5EGabV4FkvhoVcEuIGMdg&usqp=CAU",
+            "nama": "Hazelnut Latte",
+            "size": "400 Gram",
+            "harga": "60.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpXBZPkGq7TeiANHYen9FV58tLBmtlSuPTw&usqp=CAU",
+            "nama": "Red Velvet Latte",
+            "size": "400 Gram",
+            "harga": "60.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.funfoodfrolic.com/wp-content/uploads/2020/06/Oreo-Frappe.jpg",
+            "nama": "Oreo Latte",
+            "size": "400 Gram",
+            "harga": "62.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSeV3XQg3ann0QSGJ-uSjUsOtpqZKxyxXiQ&usqp=CAU",
+            "nama": "Choco Latte",
+            "size": "400 Gram",
+            "harga": "55.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://swirlsofflavor.com/wp-content/uploads/2022/07/Tiramisu-Latte-cu2-scaled.jpg.webp",
+            "nama": "Tiramisu Latte",
+            "size": "400 Gram",
+            "harga": "60.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "Camilan": [
+        {
+            "foto": "https://palpres.disway.id/upload/83f167921e5a8d3677aead0797407909.jpeg",
+            "nama": "Dimsum",
+            "size": "100 Gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://asset.kompas.com/crops/3_pP4G38V1ulz1HVZJuCZv0Cjy8=/0x2:880x588/750x500/data/photo/2022/09/14/632159cd811f2.jpg",
+            "nama": "French fries",
+            "size": "150 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.withablast.net/wp-content/uploads/2015/01/StrawberryCreamPastries-1.jpg",
+            "nama": "strowberry pastry",
+            "size": "100 Gram",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPDuvYVG3DkDncqbaheeZT3vfUpPvplyhZw&usqp=CAU",
+            "nama": "choco muffin",
+            "size": "100 Gram",
+            "harga": "37.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://kristineskitchenblog.com/wp-content/uploads/2022/03/crispy-air-fryer-onion-rings-recipe-0775.jpg",
+            "nama": "Onion Rings",
+            "size": "100 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://allofresh.id/blog/wp-content/uploads/2023/08/cara-membuat-pancake-4-780x470.jpg",
+            "nama": "Pancake",
+            "size": "100 Gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP9Upv0Y4F8nkglv-NALTL0M6paxKdJKnPig&usqp=CAU",
+            "nama": "Waffle",
+            "size": "100 Gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+
+}
